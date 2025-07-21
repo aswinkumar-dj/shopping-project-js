@@ -86,6 +86,10 @@
   color: rgb(137, 112, 60);
 }
 
+.search-bar:focus {
+  color: rgb(233, 233, 233);
+}
+
 .search-button {
   background-color: rgb(137, 112, 60);;
   border: none;

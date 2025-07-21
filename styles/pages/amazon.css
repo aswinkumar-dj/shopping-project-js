@@ -125,6 +125,14 @@
 
 .product-quantity-container {
   margin-bottom: 17px;
+  
+}
+
+.quantity-dropdown {
+  background-color:rgb(137, 112, 60) ;
+  color: rgb(0, 0, 0);
+  box-shadow: none;
+  border-color: black;
 }
 
 .product-spacer {
