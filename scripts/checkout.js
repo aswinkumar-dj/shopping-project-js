@@ -4,3 +4,5 @@ import '../data/cart-oop.js';
 
 renderOrderSummary();
 renderPaymentSummary();
+
+// class method is the structured way of coding 
