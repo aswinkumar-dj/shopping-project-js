@@ -6,3 +6,4 @@ renderOrderSummary();
 renderPaymentSummary();
 
 // class method is the structured way of coding 
+// Also it generates the object
