@@ -57,7 +57,7 @@ shopping-project-js/
 ├── tests-jasmine/                # Jasmine unit tests (SpecRunner.html)
 ├── tests-simple/                 # Custom/simple test scripts
 │
-├── amazon.html                   # Product listing page
+├── index.html                   # Product listing page
 ├── checkout.html                 # Shopping cart & checkout page
 ├── orders.html                   # Final order summary page
 └── tracking.html                 # Order tracking view (UI only)
@@ -68,4 +68,4 @@ shopping-project-js/
 tests-jasmine/SpecRunner.html
 
 ## start
-use amazon.html
+use index.html
