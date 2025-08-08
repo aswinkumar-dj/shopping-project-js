@@ -69,3 +69,6 @@ tests-jasmine/SpecRunner.html
 
 ## start
 use index.html
+
+## Live View
+https://shopping-project-js.vercel.app/
